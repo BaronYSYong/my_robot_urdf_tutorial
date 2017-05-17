@@ -1,6 +1,7 @@
 #  Step 1: Create own urdf file
 
 ## Create the tree structure
+![](image/01-tree.png) 
 ```
 $ cd ~/catkin_ws/src/
 $ catkin_create_pkg my_robot_urdf_tutorial roscpp rospy
@@ -152,4 +153,4 @@ and open the generated file with your favorite pdf viewer:
 ```
 $ evince test_robot.pdf
 ```
-![](image/01-kinematics.png) 
+![](image/02-kinematics.png) 
