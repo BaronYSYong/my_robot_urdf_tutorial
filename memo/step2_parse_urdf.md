@@ -58,7 +58,7 @@ target_link_libraries(parser ${catkin_LIBRARIES})
 ```
 build package, and run it.
 ```
-$ cd ~/catkin_ws   
+$ cd ~/catkin_ws
 $ catkin_make
 $ .<path>/parser <path>03-kinematics.urdf
 # Example: $ ./devel/lib/my_robot_urdf_tutorial/parser ./src/my_robot_urdf_tutorial/urdf/03-kinematics.urdf
