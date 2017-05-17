@@ -1,2 +1,6 @@
-# my_robot_urdf_tutorial
-ROS My Robot URDF Tutorial
+# My Robot URDF Tutorial
+
+## Reference
+* http://wiki.ros.org/urdf/Tutorials
+
+
